@@ -1,4 +1,5 @@
-__pyphi_cache__/
-.ipynb_checkpoints/
+*__pyphi_cache__/
+*.ipynb_checkpoints/
 data/
 phi_toolbox/
+*pyphi.log
